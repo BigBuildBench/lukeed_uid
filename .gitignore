@@ -1,0 +1,13 @@
+.DS_Store
+node_modules
+*-lock.json
+*-lock.*
+*.lock
+*.log
+
+/dist
+/secure
+/index.d.ts
+/single
+
+/bench/**/bundle.js
